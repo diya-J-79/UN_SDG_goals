@@ -1,0 +1,45 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(1, 200, 226);
+    margin-bottom: 32px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+}
+
+.welcome span{
+    padding-top: 4.5rem;
+    padding-bottom: 4.52rem;
+    max-width: 80%;
+    text-align: center;
+    line-height: 1.75;
+    font-weight: 550;
+    
+}
+button:hover{
+    background-color: white;
+    color:rgb(255, 51, 61);
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.8s ease;
+    }
+
+    table{
+    background-color: rgba(0, 51, 160, 1);
+    align-self: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    td {
+        text-align: center;
+    }
+    button{
+        background-color:rgb(255, 51, 61);
+        font-size: 15px;
+        padding: 10px 24px;
+        box-shadow: 0 12px 12px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+        color: white;
+            }
+

@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(1, 200, 226);
+    margin-bottom: 32px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+}
+
+.header span{
+    padding-top: 4.5rem;
+    padding-bottom: 4.52rem;
+    max-width: 80%;
+    text-align: center;
+    line-height: 1.75;
+    font-weight: 550;
+    
+}
+.goal{
+    display: flex;
+    height: 5cm;
+    justify-content: center;
+    background-color: red;
+    margin-bottom: 32px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    vertical-align: middle;
+}
+.head{
+    font-size: 50px;
+}
+
+.Home{
+    align-self: flex-start;
+}

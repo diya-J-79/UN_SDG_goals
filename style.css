@@ -42,4 +42,37 @@ button:hover{
         box-shadow: 0 12px 12px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
         color: white;
             }
+    .left-right-sections{
+        display: flex;
+        margin-bottom: 32px;
+    }
+    
+    .left-right-sections .text {
+        font-size: 2ch;
+        width: 40%;
+        color:white;
+        padding: 32px 48px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #1e3932;
+    }
+    
+    .text h3 {
+        font-weight: 400;
+        margin-bottom: 32px;
+        font-size: 19px;
+        text-align: center;
+    }
 
+    .left-right-sections .image{
+        padding-left: 100cm;
+        padding-right: auto;
+        display: flex;
+        margin-left: 100cm;
+    }
+    .left-right-sections .image img {
+        width: 100%;
+        display: flex;
+    }
